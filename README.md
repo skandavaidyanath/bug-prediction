@@ -6,6 +6,8 @@ Developed an efficient method to extract textual features from source code of so
 
 Keywords: machine learning, software engineering, natural language processing
 
+Algorithms: Multilayered Perceptron, LSTMs, SVM, Logistic Regression, Random Forest, Ensemble Voting Classifier
+
 Datasets: Lucene, Camel, Velocity , Ant
 
 CSV files contain various versions of the data including textual features or only with CK-OO features.
