@@ -8,3 +8,5 @@ Keywords: machine learning, software engineering, natural language processing
 
 Datasets: Lucene, Camel, Velocity , Ant
 
+CSV files contain various versions of the data including textual features or only with CK-OO features.
+
